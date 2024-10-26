@@ -4,3 +4,9 @@
 Authors :
 Yildiz Tolga
 Mathevon Baptiste
+
+Packages required:
+opengl
+freeglut
+sdl2
+
